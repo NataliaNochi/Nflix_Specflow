@@ -1,0 +1,15 @@
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\Nflix.deps.json
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\Nflix.runtimeconfig.json
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\Nflix.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\Nflix.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\bin\Debug\netcoreapp2.1\Nflix.pdb
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.AssemblyInfo.cs
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.dll
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.pdb
+C:\Users\natal\Desktop\Teste\Specflow\Nflix\Nflix\obj\Debug\netcoreapp2.1\Nflix.csprojAssemblyReference.cache
